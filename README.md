@@ -3,7 +3,7 @@
 My front-end developer professional portfolio created with HTML, CSS y JavaScript.
 
 - HTML ---> First of all I created the whole structure of the page with HTML including the following elements:
-    * header with a navbar including logo and hamburger button
+    * Header with a navbar including logo and hamburger button
     * Introduction section with h1 title, paragraph and image
     * My Services section with h2 title and below created the div elements for the different columns of each section
     * About me section with h2 title, paragraph text and img
